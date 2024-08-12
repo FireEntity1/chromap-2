@@ -34,8 +34,8 @@
           "_difficulty" : "ExpertPlus",
           "_difficultyRank" : 9,
           "_beatmapFilename" : "ExpertPlusStandard.dat",
-          "_noteJumpMovementSpeed" : 19,
-          "_noteJumpStartBeatOffset" : -0.55,
+          "_noteJumpMovementSpeed" : 20,
+          "_noteJumpStartBeatOffset" : -0.626,
           "_beatmapColorSchemeIdx" : 0,
           "_environmentNameIdx" : 0,
           "_customData" : {
@@ -50,7 +50,8 @@
             "_envColorLeftBoost" : {"r":0.997,"g":0.576,"b":0.064},
             "_envColorRightBoost" : {"r":0.522,"g":1,"b":0.331},
             "_envColorWhiteBoost" : {"r":1,"g":1,"b":1},
-            "_obstacleColor" : {"r":0.82,"g":0.82,"b":0.82}
+            "_obstacleColor" : {"r":0.82,"g":0.82,"b":0.82},
+            "_difficultyLabel" : "She's Not Me"
           }
         }
       ]
