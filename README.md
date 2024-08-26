@@ -6,3 +6,5 @@
   - Search for "Primadonna" in the in-game SongDownloader and download the song mapped by FireEntity!
 3. Through video
   - No VR headset? No problem! View the map with the full lightshow here: https://www.youtube.com/watch?v=eYJZR4_JtFQ
+
+![image](https://github.com/user-attachments/assets/c005336f-23bb-4f80-93b2-fffbe0ff3fc5)
